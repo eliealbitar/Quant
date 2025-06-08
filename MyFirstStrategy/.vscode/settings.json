@@ -1,0 +1,4 @@
+{
+    "python.pythonPath": "/Users/eliemacbook2019/.local/pipx/venvs/lean/bin/python",
+    "python.languageServer": "Pylance"
+}
